@@ -15,6 +15,8 @@ P.S. I'm not a python developer, but I'm a big fan of python. Contributions are 
 This library provides a simple interface for creating command line arguments. It is used to parse the command line arguments.
 Click on the [argparse-library](https://github.com/rahulmlokurte/python-explore-libraries/tree/main/argparse-library) to see the code.
 
+---
+
 ### pathlib-library
 
 This library provides a simple interface for working with system paths. Click on the [pathlib-library](https://github.com/rahulmlokurte/python-explore-libraries/tree/main/pathlib-library) to see the code.
